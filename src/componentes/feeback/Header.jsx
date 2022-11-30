@@ -6,9 +6,9 @@ const Header = ({ bgColor, c }) => {
         <header 
         style={{
             backgroundColor: bgColor,
-            color: c
+            color: c 
         }}>
-            <h1>Encabezado</h1>
+           <h1>Lista de comentarios</h1>
         </header>
     )
 }
